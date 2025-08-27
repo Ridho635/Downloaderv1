@@ -19,3 +19,11 @@ git clone https://github.com/Ridho635/Downloaderv1.git && \
 cd Downloaderv1 && \
 chmod +x installer.sh && \
 chmod 755 installer.sh && bash installer.sh
+```
+### Cara Menjalankan Tools Downloader v1
+
+Untuk menjalankan kembali tools ini gunakan perintah:
+
+```bash
+python downloader1.py
+```

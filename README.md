@@ -18,4 +18,4 @@ pkg install git -y && \
 git clone https://github.com/Ridho635/Downloaderv1.git && \
 cd Downloaderv1 && \
 chmod +x installer.sh && \
-./installer.sh
+chmod 755 installer.sh && bash installer.sh

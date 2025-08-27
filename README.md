@@ -3,6 +3,7 @@
 Tools ini di peruntukan untuk download video/audio lewat termux/Ubuntu dari sebuah link 
 YouTube.tiktok.Instagram dan bisa memiliki mau resolusi berapa yang ingin di download 
 video/mp4=144p-1080 audio/mp3=128kbs-320kbs
+file yang telah di download akan tersimpan di folder downloads/unduh
 
 ## ⚙️ Versi minimal yang dibutuhkan
 Python   >= 3.9
